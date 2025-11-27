@@ -59,7 +59,7 @@ export default function Contact() {
                 <div>
                   <h4 className="font-bold text-gray-900 mb-1">Email</h4>
                   <a href="mailto:contact@teddykomta.dev" className="text-gray-600 hover:text-blue-600 transition-colors cursor-pointer">
-                    contact@teddykomta.dev
+                    alliancekomta2001@gmail.com
                   </a>
                 </div>
               </div>
