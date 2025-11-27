@@ -83,7 +83,7 @@ export default function About() {
             </div>
 
             <div className="mt-8 bg-gradient-to-r from-blue-600 to-blue-700 p-6 rounded-xl text-white" data-aos="fade-up" data-aos-delay="500">
-              <h4 className="font-bold text-lg mb-3">🎯 Mon objectif</h4>
+              <h4 className="font-bold text-lg mb-3"> Mon objectif</h4>
               <p className="text-blue-50 leading-relaxed">
                 Devenir un développeur Full Stack capable de créer des applications complètes de bout en bout, avec une maîtrise globale du Front-end et du Back-end.
               </p>
