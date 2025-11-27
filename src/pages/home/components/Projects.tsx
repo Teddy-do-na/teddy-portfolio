@@ -12,7 +12,7 @@ export default function Projects() {
       title: 'Management Backend',
       description: 'Système de gestion back-end robuste avec API REST, gestion des erreurs avancée et architecture scalable. Démontre mes compétences en développement serveur et traitement de données.',
       image: 'https://readdy.ai/api/search-image?query=Backend%20API%20dashboard%20interface%2C%20server%20management%20system%2C%20data%20flow%20visualization%2C%20modern%20admin%20panel%20with%20blue%20theme%2C%20technical%20architecture%20diagram%2C%20professional%20design%2C%208k%20quality&width=800&height=500&seq=management-backend-001&orientation=landscape',
-      tags: ['Node.js', 'API REST', 'Backend', 'Architecture'],
+      tags: ['Spring Boot', 'API REST', 'Backend', 'Architecture'],
       link: '#',
       github: 'https://github.com/Teddy-do-na/management-backend'
     },
@@ -28,7 +28,7 @@ export default function Projects() {
       title: 'HEGC - Système de Gestion Scolaire',
       description: 'Application complète de gestion d\'établissement scolaire avec modules étudiants, cours, notes et administration. Projet Full Stack démontrant ma capacité à gérer des systèmes complexes.',
       image: 'https://readdy.ai/api/search-image?query=Modern%20school%20management%20system%20interface%2C%20educational%20platform%20dashboard%2C%20student%20and%20course%20management%20UI%2C%20clean%20blue%20design%2C%20professional%20academic%20software%2C%208k%20quality&width=800&height=500&seq=hegc-project-001&orientation=landscape',
-      tags: ['React', 'Backend', 'Gestion', 'Full Stack'],
+      tags: ['React', 'Spring Boot', 'Gestion', 'Full Stack'],
       link: '#',
       github: 'https://github.com/Teddy-do-na/HEGC'
     },
@@ -36,7 +36,7 @@ export default function Projects() {
       title: 'HEGC Backend',
       description: 'Architecture back-end du système HEGC avec gestion des données scolaires, API sécurisées et logique métier complexe. Illustre ma maîtrise des systèmes serveur.',
       image: 'https://readdy.ai/api/search-image?query=Backend%20server%20architecture%20visualization%2C%20database%20schema%20diagram%2C%20API%20endpoints%20structure%2C%20technical%20system%20design%20with%20blue%20accents%2C%20professional%20backend%20illustration%2C%208k%20resolution&width=800&height=500&seq=hegc-backend-001&orientation=landscape',
-      tags: ['Backend', 'API', 'Base de données', 'Architecture'],
+      tags: ['Spring Boot', 'API', 'Base de données', 'Architecture'],
       link: '#',
       github: 'https://github.com/Teddy-do-na/HEGC-Backend'
     },
