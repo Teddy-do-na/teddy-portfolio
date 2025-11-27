@@ -1,28 +1,28 @@
 export default function Skills() {
   const frontendSkills = [
-    { name: 'React.js', icon: 'ri-reactjs-line', level: 90 },
-    { name: 'TypeScript', icon: 'ri-code-line', level: 85 },
-    { name: 'JavaScript', icon: 'ri-javascript-line', level: 90 },
-    { name: 'Vite', icon: 'ri-flashlight-line', level: 85 },
-    { name: 'HTML/CSS', icon: 'ri-html5-line', level: 95 },
-    { name: 'Axios', icon: 'ri-exchange-line', level: 80 }
+    { name: 'React.js', icon: 'ri-reactjs-line', level: 50 },
+    { name: 'TypeScript', icon: 'ri-code-line', level: 25 },
+    { name: 'JavaScript', icon: 'ri-javascript-line', level: 50 },
+    { name: 'Vite', icon: 'ri-flashlight-line', level: 50 },
+    { name: 'HTML/CSS', icon: 'ri-html5-line', level: 90 },
+    { name: 'Axios', icon: 'ri-exchange-line', level: 70 }
   ];
 
   const backendSkills = [
-    { name: 'Java', icon: 'ri-java-line', level: 85 },
+    { name: 'Java', icon: 'ri-java-line', level: 50 },
     { name: 'API REST', icon: 'ri-server-line', level: 80 },
-    { name: 'Node.js', icon: 'ri-nodejs-line', level: 75 },
-    { name: 'Gestion erreurs', icon: 'ri-bug-line', level: 90 },
-    { name: 'Architecture', icon: 'ri-building-line', level: 75 }
+    { name: 'Node.js', icon: 'ri-nodejs-line', level: 25 },
+    { name: 'Gestion erreurs', icon: 'ri-bug-line', level: 50 },
+    { name: 'Architecture', icon: 'ri-building-line', level: 60 }
   ];
 
   const toolsSkills = [
-    { name: 'Git & GitHub', icon: 'ri-git-branch-line', level: 85 },
-    { name: 'VS Code', icon: 'ri-code-box-line', level: 90 },
+    { name: 'Git & GitHub', icon: 'ri-git-branch-line', level: 50 },
+    { name: 'VS Code', icon: 'ri-code-box-line', level: 80 },
     { name: 'IntelliJ', icon: 'ri-terminal-box-line', level: 80 },
-    { name: 'npm', icon: 'ri-npmjs-line', level: 85 },
-    { name: 'Terminal', icon: 'ri-terminal-line', level: 85 },
-    { name: 'Windows/macOS', icon: 'ri-computer-line', level: 90 }
+    { name: 'npm', icon: 'ri-npmjs-line', level: 50 },
+    { name: 'Terminal', icon: 'ri-terminal-line', level: 80 },
+    { name: 'Windows/macOS', icon: 'ri-computer-line', level: 50 }
   ];
 
   const renderSkillCard = (skill: { name: string; icon: string; level: number }, index: number) => (
